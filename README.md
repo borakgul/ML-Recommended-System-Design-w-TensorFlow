@@ -35,7 +35,7 @@ To run the movie recommendation system, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/MovieRecommendation
+    git clone https://github.com/borakgul/ML-Recommended-System-Design-w-TensorFlow
     ```
 
 2. **Install the required dependencies**:
