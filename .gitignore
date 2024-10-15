@@ -14,7 +14,3 @@ venv/
 
 # Log files
 *.log
-
-# Dataset or large files
-data/
-*.csv
